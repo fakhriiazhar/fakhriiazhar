@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Fakhrii azhar<br>I'm a college student majoring in Computer Science at Muhammadiyah University<br>🌱 I’m currently learning Machin Learning<br>📫 How to reach me fahriazhar324@gmail.com
+Hi 👋, I'm Fakhrii azhar<br>I'm a college student majoring in Computer Science at Muhammadiyah University<br>🌱 I’m currently learning Machine Learning<br>📫 How to reach me fahriazhar324@gmail.com
 
 
 ## 🌐 Socials:
