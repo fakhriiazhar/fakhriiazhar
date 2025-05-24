@@ -1,6 +1,12 @@
-# 💫 About Me:
-Hi 👋, I'm Fakhrii azhar<br>I'm a college student majoring in Computer Science at Muhammadiyah University<br>🌱 I’m currently learning Machine Learning
+## 💫 About Me
 
+Hi 👋, I'm **Fakhrii Azhar** — a passionate college student majoring in **Computer Science** at Muhammadiyah University Kalimantan Timur.
+
+- 🌱 Currently learning **Machine Learning**
+- 🛡️ Interested in **Ethical Hacking** and **Artificial Intelligence**
+- 💻 Exploring the world of **Cybersecurity** and **Software Development**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=009AFF&width=435&lines=Ethical+Hacking+and+Programmer)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riiazhr_) 
