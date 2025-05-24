@@ -1,12 +1,14 @@
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<br />
+
 ## 💫 About Me
 
 Hi 👋, I'm **Fakhrii Azhar** — a passionate college student majoring in **Computer Science** at Muhammadiyah University Kalimantan Timur.
-
 - 🌱 Currently learning **Machine Learning**
-- 🛡️ Interested in **Ethical Hacking** and **Artificial Intelligence**
+- 🛡️ Interested in **Ethical Hacking** and **Artificial Intelligence**          
 - 💻 Exploring the world of **Cybersecurity** and **Software Development**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=009AFF&width=435&lines=Ethical+Hacking+and+Programmer)](https://git.io/typing-svg)
+<br />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riiazhr_) 
