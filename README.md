@@ -21,7 +21,7 @@ Hi 👋, I'm Fakhrii azhar<br>I'm a college student majoring in Computer Science
 ---
 [![](https://visitcount.itsvg.in/api?id=fakhriiazhar&icon=0&color=4)](https://visitcount.itsvg.in)
 
-### 🐍 Snake GitHub Contribution Graph
+# 🐍 Snake GitHub Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakhriiazhar/fakhriiazhar/output/github-contribution-grid-snake-dark.svg" />
