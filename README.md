@@ -4,7 +4,7 @@
 ## 💫 About Me
 
 Hi 👋, I'm **Fakhrii Azhar** — a passionate college student majoring in **Computer Science** at Muhammadiyah University Kalimantan Timur.
-- 🌱 Currently learning **Machine Learning**
+- 🌱 Currently learning **DevOps**
 - 🛡️ Interested in **Ethical Hacking** and **Artificial Intelligence**          
 - 💻 Exploring the world of **Cybersecurity** and **Software Development**
 
